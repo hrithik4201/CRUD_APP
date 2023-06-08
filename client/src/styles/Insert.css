@@ -1,0 +1,10 @@
+.insert-container {
+  width: -webkit-fill-available;
+  text-align: center;
+}
+.input-items-container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin: 1rem 0;
+}

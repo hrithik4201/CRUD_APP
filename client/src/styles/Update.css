@@ -1,0 +1,8 @@
+.update-container {
+  width: -webkit-fill-available;
+  text-align: center;
+}
+
+.input-item {
+  margin: 1rem 0;
+}
